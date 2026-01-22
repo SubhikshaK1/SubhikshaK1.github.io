@@ -1,5 +1,12 @@
-### 🔭 I’m currently working on Front End project👋
+### 🔭 I’m currently learning Agentic AI, Cybersecurity+AI👋
 
+I am building expertise in: 
+- Orchestration: Creating designs for multi agent system and task planning with LangGraph, CrewAI, and AutoGen.
+- Advanced RAG: Implementation of adaptive and corrective RAG architectures.
+- Backend and Cloud: Building Python services using Pydantic for validation, staging to AWS S3 for binaries, ECR for images, and deploying to EC2.
+- Security: Introduction of AI Security lens into the design of platform guardrails and adversarial robustness. Tools such as BurpSuite, Wazuh, Resource: TryHackMe.
+
+A research paper on LLM integrated approaches to automate software installation is published on June 2025.
 <!--
 **SubhikshaK1/SubhikshaK1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
