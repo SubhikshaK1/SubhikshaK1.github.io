@@ -2,13 +2,15 @@
 🔭 I’m currently transitioning from Computer Vision to specializing in **Agentic AI** and <b> Security</b>. 👋
 <br><br>
 I am building expertise in:<br>
-**Orchestration:** Designing multi-agent architectures and complex task-planning workflows using **LangGraph**, **CrewAI**, and **AutoGen**.<br>
-**Advanced RAG:** Implementing **Adaptive**, **Corrective (C-RAG)**, and **Self-Optimizing** RAG systems with **Semantic Chunking** and re-ranking.<br>
-**Backend and Cloud:** Engineering production-grade Python services with **Pydantic** validation, **Docker** containerization, and deployment via **AWS** (S3, ECR, EC2, Bedrock).<br>
-**Security:** Integrating an **AI Security** lens into platform guardrails and adversarial robustness, alongside **Computer Networks**, **Linux**, platforms like TryHackMe, PortSwigger, HackTheBox tools like **Wazuh** and **Burp Suite**. <br>
+<ul>
+<li><b>Orchestration:</b> Designing multi-agent architectures and complex task-planning workflows using <b>LangGraph</b>, <b>CrewAI</b>, and <b>AutoGen</b>.
+<li><b>Advanced RAG:</b> Implementing <b>Adaptive</b>, <b>Corrective (C-RAG)</b>, and <b>Self-Optimizing</b> RAG systems with <b>Semantic Chunking</b> and re-ranking.</li>
+<li><b>Backend and Cloud:</b> Engineering production-grade Python services with <b>Pydantic, FastAPI</b> validation, <b>Docker</b> containerization, and deployment via <b>AWS</b> (S3, ECR, EC2, Bedrock).</li>
+<li><b>Security:</b> Integrating an <b>AI Security</b> lens into platform guardrails and adversarial robustness, alongside <b>Computer Networks</b>, <b>Linux</b>, platforms like TryHackMe, PortSwigger, HackTheBox tools like <b>Wazuh</b> and <b>Burp Suite</b>.</li>
+</ul>
 <br>
 
-<h3> Published a paper on <b>LLM integrated approaches to automate software installation</b> in June 2025.</h3>
+<h3> Published a paper on <b>LLM integrated approaches to automate software installation</b> in June 2025. <a href= "https://thegrenze.com/index.php?display=page&view=journalabstract&absid=6046&id=8"> View &#8599</h3>
 
 
 ## 🌐 Socials:
